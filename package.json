@@ -1,0 +1,17 @@
+{
+  "name": "docker-concepts-intro",
+  "version": "1.0.0",
+  "description": "A minimal Node.js application for demonstrating Docker concepts.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  },
+  "keywords": [
+    "docker",
+    "nodejs",
+    "concepts"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
